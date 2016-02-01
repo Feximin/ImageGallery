@@ -6,7 +6,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.feximin.imagegallery"
+        applicationId "com.feximin.imagegshower"
         minSdkVersion 8
         targetSdkVersion 23
         versionCode 1
